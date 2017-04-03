@@ -1,3 +1,3 @@
 # Dynamic Programming Practice
 
-This file contains all up to date dynamic programming practices completed in reference to the ACM programmig competition.
+This file contains all up to date dynamic programming practices completed in reference to the ACM Programmig Competition.
